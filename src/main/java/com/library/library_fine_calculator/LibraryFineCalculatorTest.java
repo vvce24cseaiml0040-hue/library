@@ -1,0 +1,5 @@
+package com.library.library_fine_calculator;
+
+public class LibraryFineCalculatorTest {
+
+}
